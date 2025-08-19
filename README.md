@@ -16,7 +16,7 @@ LinkZin é um aplicativo simples e estiloso para encurtar URLs de forma rápida 
 
 ## Como baixar
 
-Você pode baixar o LinkZin clicando no link abaixo:  
+Você pode baixar o LinkZin clicando no link abaixo e depois em Viw Raw:  
 
 [⬇️ Download LinkZin](https://github.com/cleisonlima/dev_projects/blob/main/LinkZin.exe)
 
