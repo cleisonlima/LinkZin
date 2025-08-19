@@ -3,7 +3,7 @@
 
 # ✨ LinkZin ✨
 
-LinkZin é um aplicativo simples e estiloso para encurtar URLs de forma rápida e prática. Com ele, você pode transformar links longos em links curtos, prontos para compartilhar em redes sociais, e-mails ou qualquer outro lugar.
+LinkZin é um aplicativo simples para encurtar URLs de forma rápida e prática. Com ele, você pode transformar links longos em links curtos, prontos para compartilhar em redes sociais, e-mails ou qualquer outro lugar.
 
 ![Imagem do LinkZin](https://github.com/cleisonlima/dev_projects/raw/main/LinkZin.png)
 
